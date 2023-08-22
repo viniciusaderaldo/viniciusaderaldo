@@ -5,7 +5,6 @@
 
 <h3>About me</h3>
 <p>:bowtie: Master in Physics</p>
-<p>:computer: Currently studying Analysis and Systems Development</p>
 
 </br>
 
